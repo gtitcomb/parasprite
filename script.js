@@ -124,8 +124,8 @@ $(document).ready(function () {
     barnacle += 2;
     tongue += 2;
     hippoeye += 1;
-  $("question2").hide(500);
-  $("question3").show(500);
+  $("#question2").hide(500);
+  $("#question3").show(500);
 });
 
   //candy
