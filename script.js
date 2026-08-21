@@ -119,10 +119,19 @@ $(document).ready(function () {
     $("#question3").show(500);
   });
 
-  //candy
-  $("#q2a6").click(function () {
-    hyperparasite += 4;
+  //sushi
+  $("#q2a6).click(function () {
+    barnacle += 2;
+    tongue += 2;
     hippoeye += 1;
+  $("question2").hide(500);
+  $("question3").show(500);
+});
+
+  //candy
+  $("#q2a7").click(function () {
+    hyperparasite += 4;
+    fungus += 1;
     $("#question2").hide(500);
     $("#question3").show(500);
   });
