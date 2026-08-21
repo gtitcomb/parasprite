@@ -120,7 +120,7 @@ $(document).ready(function () {
   });
 
   //sushi
-  $("#q2a6).click(function () {
+  $("#q2a6").click(function () {
     barnacle += 2;
     tongue += 2;
     hippoeye += 1;
